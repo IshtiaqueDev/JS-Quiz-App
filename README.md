@@ -3,13 +3,6 @@
 A simple and interactive JavaScript Quiz Application built with vanilla HTML, CSS, and JavaScript. This project was created to practice DOM manipulation, event handling, and basic JavaScript logic.
 
 ---
-
-## Preview
-
-![JS Quiz App Screenshot](./screenshot.png)
-
----
-
 ## Features
 
 - 10 JavaScript-based multiple choice questions
